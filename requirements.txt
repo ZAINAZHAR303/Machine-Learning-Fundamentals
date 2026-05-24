@@ -1,0 +1,17 @@
+# Data Manipulation & Scientific Computing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+keras
+  # Alternative deep learning library (PyTorch)
+
+# Utilities
+  # For Jupyter Notebooks

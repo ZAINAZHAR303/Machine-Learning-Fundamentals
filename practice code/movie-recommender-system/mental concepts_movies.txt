@@ -1,0 +1,11 @@
+Ratings Data
+↓
+User-Item Matrix
+↓
+Transpose Matrix
+↓
+Cosine Similarity
+↓
+Similarity Matrix
+↓
+Recommendations
